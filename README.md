@@ -21,7 +21,7 @@
     <img align="center" alt="Maycon-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="Maycon-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
     <img align="center" alt="Maycon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="30" height="40" frameBorder="0" class="giphy-embed"></iframe>
+    <img align="right"  src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="40" height="30" frameBorder="0" class="giphy-embed"><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a>
 </div>
 
 ##
