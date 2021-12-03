@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/maycondouglas1">
-  <img height="180em" src=![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycondouglas1&theme=algolia&show_icons=true)>
-  <img height="180em" src=![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maycondouglas1&layout=compact&langs_count=16&theme=algolia)>         
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycondouglas1&theme=algolia&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycondouglas1&layout=compact&langs_count=16&theme=algolia">         
 </div>
 
