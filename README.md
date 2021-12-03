@@ -4,7 +4,7 @@
 😄 Meu nome é Maycon Douglas, sou estudante de Ciência da Computação pela Universidade Federal de Sergipe. 
 
 
-⚡ Atualmente, estou estudando C# e ASP .NET e buscando novas oportunidades de estágio e Desenvolvedor JR. Sempre em busca de novos desafios para me tornar um Dev Fullstack!
+⚡ Atualmente, estou estudando C# e ASP .NET. Buscando novas oportunidades de estágio e Desenvolvedor JR. Sempre à procura de novos desafios para me tornar um Dev Fullstack!
 
 <div>
   <a href="https://github.com/maycondouglas1">
