@@ -21,7 +21,7 @@
     <img align="center" alt="Maycon-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="Maycon-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
     <img align="center" alt="Maycon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="right" alt="Maycon-Gif" height="120" width="240"          src="https://media.discordapp.net/attachments/851851581279961108/916302459020918784/75adf60a163180dfeb0c467511e25191.gif?width=624&height=468" />
+    <img align="right" alt="Maycon-Gif" height="240" width="240"          src="https://media.discordapp.net/attachments/851851581279961108/916302459020918784/75adf60a163180dfeb0c467511e25191.gif?width=624&height=468" />
     
 </div>
 
