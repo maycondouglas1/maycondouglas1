@@ -21,12 +21,12 @@
     <img align="center" alt="Maycon-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="Maycon-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
     <img align="center" alt="Maycon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="right" alt="Maycon-Gif" height="30" width="40" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+    <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="30" height="40" frameBorder="0" class="giphy-embed"></iframe>
 </div>
 
 ##
   
 <div>
   <a href="https://www.linkedin.com/in/maycon-douglas-36374716a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mayconmrqs2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mayconmrqs2001@gmail.com"><img src=""></a>
 </div>
