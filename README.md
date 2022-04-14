@@ -1,11 +1,5 @@
 ## Olá, mundo!
 
-
-😄 Meu nome é Maycon Douglas, sou estudante de Ciência da Computação pela Universidade Federal de Sergipe. 
-
-
-⚡ Atualmente, estou estudando React, Node JS e MongoDB.
-
 <div>
   <a href="https://github.com/maycondouglas1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycondouglas1&theme=aura&show_icons=true">
