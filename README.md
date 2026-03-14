@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/maycondouglas1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycondouglas1&theme=aura&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycondouglas1&theme=aura&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycondouglas1&layout=compact&langs_count=16&theme=aura">         
 </div>
   
